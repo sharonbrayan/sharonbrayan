@@ -1,8 +1,8 @@
 # Hi, I’m Sharon 👋
 
-I’m a **Full-Stack MERN Developer** with a strong focus on backend logic, authentication, and real-world application workflows.
+**BCA graduate** and **Full-Stack Web Developer** with hands-on experience in the **MERN stack**. 
 
-I enjoy building applications that go beyond basic CRUD — especially systems involving **role-based access**, **secure APIs**, and **data-driven logic**.
+Skilled in building responsive web applications, integrating RESTful APIs, and handling authentication and database operations. 
 
 ---
 
